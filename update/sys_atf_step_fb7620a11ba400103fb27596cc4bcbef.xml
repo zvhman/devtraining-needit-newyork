@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Click the component: 'Button &lt;div&gt;: 7 Windows items'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"b7b102564d75b9a2c8a95e469a106096":"{\"area\":\"KB Categories\",\"sn_atf_mugshot_short_description\":\"Button &lt;div&gt;: 7 Windows items\",\"inner_text\":\"7\\nWindows\\nitems\",\"role\":\"button\",\"sn_atf_mugshot_long_description\":\"Button &lt;div&gt;: 7 Windows items in page area KB Categories\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"7\\nWindows\\nitems\",\"get_value_result\":\"7\\nWindows\\nitems\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;div&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"div\",\"isDisabled\":false,\"hash\":\"b7b102564d75b9a2c8a95e469a106096\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>7</order>
+        <snapshot display_value="aecc950a330a3a66c129653533d9a81f">5e07fbe51b2000103fb27596cc4bcb93</snapshot>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-17 02:09:35</sys_created_on>
+        <sys_id>fb7620a11ba400103fb27596cc4bcbef</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_fb7620a11ba400103fb27596cc4bcbef</sys_update_name>
+        <sys_updated_by>itil</sys_updated_by>
+        <sys_updated_on>2019-10-17 17:20:03</sys_updated_on>
+        <table/>
+        <test display_value="Knowledge Article Test in Service Portal">b3b4a0211ba400103fb27596cc4bcb3d</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=fb7620a11ba400103fb27596cc4bcbef"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>fb7620a11ba400103fb27596cc4bcbef</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-17 02:09:35</sys_created_on>
+        <sys_id>c9a6e4a11ba400103fb27596cc4bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-17 02:09:35</sys_updated_on>
+        <value>b7b102564d75b9a2c8a95e469a106096</value>
+        <variable display_value="">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>
